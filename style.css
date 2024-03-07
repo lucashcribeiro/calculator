@@ -1,0 +1,19 @@
+.custom-btn {
+    color: #fb2c70;
+    border : 1px solid #fb2c70;
+    background-color: transparent;
+    border-radius: 5px;
+
+}
+.custom-btn:hover {
+    background-color: #ed145b;
+    color: white;
+}
+.custom-title {
+    color: #fb2c70;
+    font-size: 2.5rem;
+}
+.resultado-estilo {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
